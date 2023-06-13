@@ -19,4 +19,4 @@ create a plan to make a lot of posts on blog of the [site](https://lazzari.net.b
 -()
 -()
 
-create a site with wordpress [domain](lazzariagenciaweb.com.br)
+create a site with wordpress [site](lazzariagenciaweb.com.br)
